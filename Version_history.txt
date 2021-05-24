@@ -1,0 +1,22 @@
+Version history
+_______________
+
+
+Version 0.5.4
+- Added third option in TestMode parameter to support High-Density Anomaly detection frameworks that use SECODA as base algorithm (see 'Algorithmic Frameworks for the Detection of High-Density Anomalies')
+- Updated documentation
+
+Version 0.5.3
+- Bug fix in checking hard conditions regarding StartHeuristicsAfterIteration
+- Updated Help files and documentation (includes explanation on full typology of data anomalies, with six types)
+
+Version 0.5.2
+- Bug fix for pruning in highly skewed datasets
+- Updated Help files and documentation
+
+Version 0.5.1
+- Updated Help files and documentation
+
+Version 0.5.0
+- First online version
+
