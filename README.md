@@ -1,19 +1,19 @@
 # SECODA
 Anomaly detection with SECODA for the R environment. SECODA is a general-purpose unsupervised non-parametric anomaly detection algorithm for datasets containing numerical and/or categorical attributes.
 
-## Version
+## A. Version
 SECODA version 0.5.4 - 20200228
 
-## A. FILES
+## B. FILES
 This project includes several types of files:
 * SECODA implementations for R (see below)
 * Example datasets and code (run the code in "Examples.R")
 * Publications, Help/Description files, version information and links to other resources
 
-## B. SECODA SOFTWARE
+## C. SECODA SOFTWARE
 This project contains several implementations of SECODA:
-1. The regular SECODA as a code file that can be executed by R
-1. The regular SECODA as an R package that can be installed in the R environment
+1. The regular SECODA as a code file that can be executed by R.
+1. The regular SECODA as an R package that can be installed in the R environment. 
 1. The SECODA base R version as a code file, which runs more slowly than the regular implementation (but does not need the data.table package). The results are identical to the regular version. Note, however, that this base R version does not offer all options.
 
 This software should be regarded as a beta version, and as such will undoubtedly still contain bugs. 
@@ -29,10 +29,10 @@ The software in this container is licensed under a GNU AFFERO GENERAL PUBLIC LIC
 See the Help file, documents or Example.R for information on using the SECODA() algorithm in R.
 
 See the following references for background information on SECODA and the typology of anomalies:
+* Foorthuis, R.M. (2017). [SECODA: Segmentation- and Combination-Based Detection of Anomalies](https://arxiv.org/abs/2008.06869). In: Proceedings of the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
 * Foorthuis R.M. (2021). On the Nature and Types of Anomalies: A Review of Deviations in Data. arXiv preprint, arXiv:2007.15634
 * Foorthuis R.M. (2019). All or In-cloud: How the Identification of Six Types of Anomalies is Affected by the Discretization Method. In: Atzmueller M., Duivesteijn W. (eds). Artificial Intelligence. BNAIC 2018. Springer, Communications in Computer and Information Science, Vol. 1021, pp 25-42. DOI: 10.1007/978-3-030-31978-6_3
 * Foorthuis, R.M. (2018). A Typology of Data Anomalies. Accepted for Presentation at IPMU 2018, the 17th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, Cádiz, Spain. 
-* Foorthuis, R.M. (2017). SECODA: Segmentation- and Combination-Based Detection of Anomalies. In: Proceedings of the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
 * Foorthuis, R.M. (2017). Anomaly Detection with SECODA. Poster Presentation at the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
 * Foorthuis, R.M. (2017). The SECODA Algorithm for the Detection of Anomalies in Sets with Mixed Data. URL: www.foorthuis.nl
 
