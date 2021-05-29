@@ -30,8 +30,8 @@ See the Help file, documents or Example.R for information on using the SECODA() 
 
 See the following references for background information on SECODA and the typology of anomalies:
 * Foorthuis, R.M. (2017). [SECODA: Segmentation- and Combination-Based Detection of Anomalies](https://arxiv.org/abs/2008.06869). In: Proceedings of the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
+* Foorthuis R.M. (2019). [All or In-cloud: How the Identification of Six Types of Anomalies is Affected by the Discretization Method](https://tunguska.home.xs4all.nl/Publications/Docs/All%20or%20In-cloud.%20How%20the%20Identification%20of%20Six%20Types%20of%20Anomalies%20is%20Affected%20by%20the%20Discretization%20Method%20-%20Foorthuis.pdf). In: Atzmueller M., Duivesteijn W. (eds). Artificial Intelligence. BNAIC 2018. Springer, Communications in Computer and Information Science, Vol. 1021, pp 25-42. DOI: 10.1007/978-3-030-31978-6_3
 * Foorthuis R.M. (2021). On the Nature and Types of Anomalies: A Review of Deviations in Data. arXiv preprint, arXiv:2007.15634
-* Foorthuis R.M. (2019). All or In-cloud: How the Identification of Six Types of Anomalies is Affected by the Discretization Method. In: Atzmueller M., Duivesteijn W. (eds). Artificial Intelligence. BNAIC 2018. Springer, Communications in Computer and Information Science, Vol. 1021, pp 25-42. DOI: 10.1007/978-3-030-31978-6_3
 * Foorthuis, R.M. (2018). A Typology of Data Anomalies. Accepted for Presentation at IPMU 2018, the 17th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, Cádiz, Spain. 
 * Foorthuis, R.M. (2017). Anomaly Detection with SECODA. Poster Presentation at the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
 * Foorthuis, R.M. (2017). The SECODA Algorithm for the Detection of Anomalies in Sets with Mixed Data. URL: www.foorthuis.nl
