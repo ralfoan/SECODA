@@ -18,7 +18,7 @@ This project contains several implementations of SECODA:
 
 This software should be regarded as a beta version, and as such will undoubtedly still contain bugs. 
 
-Help improve this algorithm and software by sending comments to Ralph Foorthuis (tungusqa@hotmail.com). 
+Help improve this algorithm and software by sending comments to Ralph Foorthuis (ralphfoorthuis@gmail.com). 
 If you report a bug in the code, please also provide a small dataset and the statements to reproduce
 the error. 
 
