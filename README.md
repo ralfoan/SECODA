@@ -26,7 +26,7 @@ I would also appreciate it if you send me comments about how SECODA did (or did 
 
 The software in this container is licensed under a GNU AFFERO GENERAL PUBLIC LICENSE VERSION 3.
 
-See the Help file, documents or Example.R for information on using the SECODA() algorithm in R.
+See the Help file, documents or "Examples.R" for information on using the SECODA() algorithm in R.
 
 See the following references for background information on SECODA and the typology of anomalies:
 * Foorthuis, R.M. (2017). [SECODA: Segmentation- and Combination-Based Detection of Anomalies](https://arxiv.org/abs/2008.06869). In: Proceedings of the 4th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2017), Tokyo, Japan.
